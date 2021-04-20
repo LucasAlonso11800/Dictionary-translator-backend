@@ -1,0 +1,1 @@
+This React application allows the user to look for words in the Oxford Dictionary both in English and Spanish and to use the translator powered by MyMemoryAPI between six languages.
